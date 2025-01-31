@@ -1,3 +1,3 @@
 # personal-financial
 
-testing my AI skills to build a personal finance agent
+testing my AI skills to build a personal finance agent# healthy-budget
